@@ -1,5 +1,5 @@
 # IUACR-Release
-<b> Windows & MacOS Alpha releases are available now </b>
+<b> Windows & MacOS Alpha releases are available now! </b>
 
 IUACR is an Automated Class Register for Indiana University. The latest release will be published to the "release" tab at the top. Feel free to post feature requests, bugs and suggestions on the "Issues" tab at the top.
 
