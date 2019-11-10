@@ -5,7 +5,7 @@ IUACR is an Automated Class Register for Indiana University. The latest release 
 
 <b>Features planned for v1.0 release:</b>
 1. ✔️ View holds
-2. ✔️ View enrollment appointment date
+2. ✔️ View enrollment appointment info
 3. ⚠️ Download your class calendar as a picture
 4. ⚠️ Class conflicts recognition
 5. ⚠️ Auto enroll for your classes
