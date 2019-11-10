@@ -1,5 +1,5 @@
 # IUACR-Release
-<b> ❌ I removed the release for since I discovered some compatibility & dependency issues among different operating systems, I'm currently working on it... </b>
+<b> ❌ I removed the release for since I discovered some compatibility & dependency issues among different operating systems, and I'm working on it... </b>
 
 IUACR is an Automated Class Register for Indiana University. The latest release will be published to the "release" tab at the top. Feel free to post feature requests, bugs and suggestions on the "Issues" tab at the top.
 
