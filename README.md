@@ -1,7 +1,7 @@
 # IUACR-Release
 <b> ⚠️ I will be releasing a new test version for testing the new class shcedule feature very soon! </b>
 
-IUACR is an Automated Class Register Program for Indiana University which is written in Python. The latest release will be published to the "release" tab at the top. Feel free to post feature requests, bugs and suggestions on the "Issues" tab at the top.
+IUACR is an Automated Class Register Program for Indiana University which is written in Python The latest release will be published to the "release" tab at the top. Feel free to post feature requests, bugs and suggestions on the "Issues" tab at the top.
 
 <b>Features planned for v1.0 release:</b>
 1. ✔️ View holds
