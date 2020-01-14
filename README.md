@@ -11,7 +11,7 @@ IUACR is an Automated Class Register Program for Indiana University which is wri
 5. ⚠️ Class conflicts recognition
 6. ⚠️ Auto enroll for your classes
 
-
+=================================================================
 
 <b> IUACR Setup Guide </b>
 
@@ -33,8 +33,9 @@ IUACR is an Automated Class Register Program for Indiana University which is wri
 after the installation of Python (usage: pip install colorama)
 Unzip all the files you downloaded from GitHub to single folder on your desktop. </b>
 
+=================================================================
 
-<b> For Windows: </b>
+:computer: <b> For Windows: </b>
 1. Double click on IUACR.exe file
 2. Allow network access and other security prompts if prompted
 3. Enter your IU username and password
@@ -42,7 +43,7 @@ Unzip all the files you downloaded from GitHub to single folder on your desktop.
 5. Wait for the program to load your IU Student Center
 6. Enjoy :)
 
-<b> For MacOS: </b>
+:apple: <b> For MacOS: </b>
 N/A
 
 
