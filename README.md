@@ -30,7 +30,7 @@ IUACR is an Automated Class Register Program for Indiana University which is wri
 4. Done :)
 
 <b> Note: All packages listed above can be installed with pip in PowerShell (Windows) or Terminal (MacOS) 
-after the installation of Python (usage: pip install colorama)
+after the installation of Python (usage: pip install your_package_name)
 Unzip all the files you downloaded from GitHub to single folder on your desktop. </b>
 
 =================================================================
