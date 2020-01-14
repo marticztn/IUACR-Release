@@ -11,7 +11,7 @@ IUACR is an Automated Class Register Program for Indiana University which is wri
 5. ⚠️ Class conflicts recognition
 6. ⚠️ Auto enroll for your classes
 
-<b> ===================================== IUACR Setup Guide ===================================== </b>
+<b> IUACR Setup Guide </b>
 
 <b> Prerequisite: </b>
 1. Python 3.7.x
@@ -21,7 +21,7 @@ IUACR is an Automated Class Register Program for Indiana University which is wri
 5. pillow package
 6. chromedriver.exe (Please upgrade your Google Chrome to the latest STABLE version)
 
-For chromedriver.exe, download it <b> [here](https://chromedriver.chromium.org/downloads) <b>
+<b> For chromedriver.exe, download it [here](https://chromedriver.chromium.org/downloads) </b>
 1. Check your Google Chrome version (3 dots on the upper-right corner -> Help -> About)
 2. Download the right version of Chrome Driver
 3. Unzip chromedriver.exe to the folder where the IUACR.exe file is located
@@ -31,9 +31,8 @@ For chromedriver.exe, download it <b> [here](https://chromedriver.chromium.org/d
 after the installation of Python (usage: pip install colorama)
 Unzip all the files you downloaded from GitHub to single folder on your desktop. </b>
 
-================================================================================================
 
-<b> For Windows: <b>
+<b> For Windows: </b>
 1. Double click on IUACR.exe file
 2. Allow network access and other security prompts if prompted
 3. Enter your IU username and password
@@ -41,10 +40,9 @@ Unzip all the files you downloaded from GitHub to single folder on your desktop.
 5. Wait for the program to load your IU Student Center
 6. Enjoy :)
 
-<b> For MacOS: <b>
+<b> For MacOS: </b>
 N/A
 
-================================================================================================
 
 <b> Note: The fourth option "Setup Auto Class Register" is still under development, feel free to
 try the first 3 options and don't hesitate to open an issue on IUACR github page if you found any bugs or errors. <b>
