@@ -16,7 +16,7 @@ IUACR is an Automated Class Register Program for Indiana University which is wri
 <b> IUACR Setup Guide </b>
 
 <b> Prerequisite: </b>
-1. Python 3.7.x
+1. Python 3.7.x +
 2. colorama package
 3. requests package
 4. selenium package
