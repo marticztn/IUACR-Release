@@ -11,6 +11,8 @@ IUACR is an Automated Class Register Program for Indiana University which is wri
 5. ⚠️ Class conflicts recognition
 6. ⚠️ Auto enroll for your classes
 
+
+
 <b> IUACR Setup Guide </b>
 
 <b> Prerequisite: </b>
