@@ -29,7 +29,7 @@ IUACR is an Automated Class Register Program for Indiana University which is wri
 3. Unzip chromedriver.exe to the folder where the IUACR.exe file is located
 4. Done :)
 
-<b> Note: All packages listed above can be installed with pip in PowerShell(Windows) or Terminal(MacOS) 
+<b> Note: All packages listed above can be installed with pip in PowerShell (Windows) or Terminal (MacOS) 
 after the installation of Python (usage: pip install colorama)
 Unzip all the files you downloaded from GitHub to single folder on your desktop. </b>
 
